@@ -20,7 +20,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_Pong
 PRODUCT_DEVICE := Pong
-PRODUCT_MANUFACTURER := nothing
+PRODUCT_MANUFACTURER := Nothing
 PRODUCT_BRAND := Nothing
 PRODUCT_MODEL := A065
 
@@ -32,7 +32,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="Pong-user 12 SKQ1.240903.001 2501131723 release-keys" \
     BuildFingerprint=Nothing/Pong/Pong:12/SKQ1.240903.001/2501131723:user/release-keys \
     DeviceName=Pong \
-    DeviceProduct=A065 \
+    DeviceProduct=Pong \
     SystemDevice=Pong \
     SystemName=Pong 
 
