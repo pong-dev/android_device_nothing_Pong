@@ -364,6 +364,9 @@
     <!-- Type of the tap sensor. Empty if tap is not supported. -->
     <string name="config_dozeTapSensorType" translatable="false">org.lineageos.sensor.single_touch</string>
 
+    <!-- Fingerprint from stock ROM -->
+    <string name="config_stockFingerprint" translatable="false">Nothing/Pong/Pong:12/SKQ1.240903.001/2505061805:user/release-keys</string>
+
      <!-- Vibrator pattern for feedback about a long screen/key press -->
     <!-- The default intensity level for haptic feedback. See
          Settings.System.HAPTIC_FEEDBACK_INTENSITY more details on the constant values and
