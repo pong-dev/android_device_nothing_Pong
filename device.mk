@@ -109,6 +109,7 @@ PRODUCT_COPY_FILES += \
 
 
 $(call soong_config_set,camera,package_name,com.nothing.camera)
+$(call soong_config_set,libcameraservice,ext_lib,//$(LOCAL_PATH):libcameraservice_extension.Pong)
 
 # Charging
 PRODUCT_PACKAGES += \
